@@ -24,4 +24,4 @@ Om kjøretøyet ble godkjent ,
 Antall 2-3er feil for hvert kontrollkapittel ,
 Antall 2-3er feil for hvert kontrollpunkt ,
 Fylke der kjøretøyet er kontrollert ,
-Fylkesnummer der kjøretøyet er kontroller ,
+Fylkesnummer der kjøretøyet er kontrollert
